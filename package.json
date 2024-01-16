@@ -9,6 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies":{
+  "cz-conventional-changelog0":"3.3.0"
+  },
   "config": {
   "commitizen": {
     "path": "cz-conventional-changelog"
