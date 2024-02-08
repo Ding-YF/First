@@ -1,2 +1,3 @@
 #add git ignore files
 .cz.toml
+pydemofolder/
